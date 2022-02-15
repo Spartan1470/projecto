@@ -1,0 +1,16 @@
+.fuente{
+    font-family: 'Praise', cursive;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.fondo{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgb(131, 6, 6) 81%, rgb(5, 5, 5) 100%);
+}
+
+.fondobanner {
+    background-image: url("img/mordred.png");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: top center;
+}
